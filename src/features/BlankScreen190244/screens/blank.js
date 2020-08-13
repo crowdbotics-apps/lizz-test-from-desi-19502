@@ -351,7 +351,7 @@ export class _Blank extends React.Component {
           letterSpacing: 0
         }}
       >
-        Sample text content
+        Text - The quick brown fox - playfair{" "}
       </Text>
       <Button
         style={{
